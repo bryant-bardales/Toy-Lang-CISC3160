@@ -64,3 +64,6 @@ Output 4
 x = 1
 y = 2
 z = 3
+
+
+<img width="1419" alt="Screen Shot 2022-05-22 at 6 27 47 PM" src="https://user-images.githubusercontent.com/73409340/169719882-b49ff3f2-a7a1-4d53-99a1-92fd15c1ff7d.png">
